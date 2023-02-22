@@ -1,1 +1,1 @@
-c/c_is_fun.c
+thi is my first read me
